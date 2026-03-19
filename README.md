@@ -4,5 +4,5 @@ Clases de TecAp y Tareas
 
 ## primera imagen ekisde
 
-![](./excavadora.png)
+![foto random de una excavadora](./excavadora.png)
 
