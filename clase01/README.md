@@ -1,7 +1,9 @@
+# Tecnología Aplicada
+
 # Clase 01
 ´´´
 
-# Apuntes de Clase
+## Apuntes de Clase
 
 
 ## 1. Mesa Material / Composición
@@ -69,20 +71,33 @@ La tercera mesa busca:
 - **Mesa 1 (Material):** Qué es el objeto  
 - **Mesa 2 (Relacional):** Cómo se usa  
 - **Mesa 3 (Integradora):** Qué significa dentro de un sistema más amplio (No)
-- **DIsciplina: El arte busca atrapar o unificar estas tres mesas.
+- **Disciplina: El arte busca atrapar o unificar estas tres mesas.
 - Imagen y ejecución.
 
 - Leer la estetica de la cosmología.
 
   Cualquier cosa con una realidad unitaria: El objeto puede ser todo, una mesa, una silla, una canción y una idea. Todo está hecho de átomos.
   ¿Las canciones son objetos?
-  
 
+  # Tarea
+  ## Escribir mis cualidades de forma Relacional y Material
+  R:
+
+
+m: Cómo puedo volver a sentirme bien? Cómo puedo volver a estar con mi cabeza en paz?
+No siento que haya algo que me pese realmente, pero la culpa me está comiendo.
+
+  
+Tomar dos objetos diferentes para crear una nueva experiencia
+Obj. real (Yo) /Obj. Sensorial (Aparecido)
+Ejecución/ Imagen
+Cualidades Reales/ Cualidades Sensoriales
+
+Es distinto pensar en las cualidadess de algo y la apariencia de algo.
+El onjeto cuadruple.
 Como agregar una imagen.
 
-# Tec.-Aplicada-Objeto-
-Clases de TecAp y Tareas
-## Clase 01
+Ordené estos apuntes con ChatGPT
 
 ## primera imagen ekisde
 Puse una foto de una excavadora porque fue lo que tenía a la mano.
