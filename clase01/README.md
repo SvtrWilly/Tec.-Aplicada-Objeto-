@@ -77,11 +77,30 @@ La tercera mesa busca:
 - Leer la estetica de la cosmología.
 
   Cualquier cosa con una realidad unitaria: El objeto puede ser todo, una mesa, una silla, una canción y una idea. Todo está hecho de átomos.
+
+
+## primera imagen
+Puse una foto de una excavadora.
+![](./excavadora.png)
+
+  # Clase 02
   ¿Las canciones son objetos?
 
   # Tarea
   ## Escribir mis cualidades de forma Relacional y Material
-  R:
+Relacional:
+  - Suelo ser un poco directo
+  - Hago muchos chistes
+  - Soy muy entregado a otras personas
+  - Me esfuerzo por la aprobación
+
+Material: 
+- Sangre
+- Pulmones
+- Piel
+- Manchas en la piel
+- Pelo largo
+- Ojos irritados
 
 
 m: Cómo puedo volver a sentirme bien? Cómo puedo volver a estar con mi cabeza en paz?
@@ -107,8 +126,24 @@ Pienso en pulsos, pilares, ondas, líneas como objetos fisicos de cómo una canc
 
 Como agregar una imagen.
 
-Ordené estos apuntes con ChatGPT
+# CLASE 02(.5)
+## Escribir 10 cualidades de 2 objetos
 
-## primera imagen ekisde
-Puse una foto de una excavadora porque fue lo que tenía a la mano.
-![](./excavadora.png)
+Acuario y Guitarra
+
+## Acuario
+
+- Tiene agua
+- Tiene peces
+- Es de vidrio grueso
+- Contiene plantas acuaticas
+- No está vivo
+
+
+## Guitarra
+
+-Es de madera
+-Está barnizada
+-Tiene cables y cuerdas
+-Suena al hacer vibrar las cuerdas
+-Negra y roja
