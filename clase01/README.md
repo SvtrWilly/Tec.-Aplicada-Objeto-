@@ -102,10 +102,6 @@ Material:
 - Pelo largo
 - Ojos irritados
 
-
-m: Cómo puedo volver a sentirme bien? Cómo puedo volver a estar con mi cabeza en paz?
-No siento que haya algo que me pese realmente, pero la culpa me está comiendo.
-
   
 Tomar dos objetos diferentes para crear una nueva experiencia
 Obj. real (Yo) /Obj. Sensorial (Aparecido)
