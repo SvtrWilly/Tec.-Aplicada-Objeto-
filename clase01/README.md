@@ -4,7 +4,7 @@
 ´´´
 
 ## Apuntes de Clase
-
+(Trasnscribir del cuaderno)
 
 ## 1. Mesa Material / Composición
 
@@ -18,13 +18,12 @@ Se enfoca en los **objetos en sí mismos**, su materia, estructura y procesos de
 
 
 **Pregunta central:**  
-> ¿De qué está hecho esto?
+- ¿De qué está hecho esto?
 
 **Relación con disciplinas:**
 - Ciencias Sociales (producción y circulación de objetos)
 - Antropología (cultura material)
 
----
 
 ## 2. Mesa Relacional / Uso
 
@@ -35,9 +34,8 @@ Se centra en la **interacción entre las personas y los objetos**.
 - Se enfoca en la experiencia más que en la materialidad.
 
 **Pregunta central:**  
-> ¿Cómo se usa y qué relaciones genera?
+¿Cómo se usa y qué relaciones genera?
 
----
 
 ## 3. La Tercera Mesa
 
@@ -54,9 +52,9 @@ La “tercera mesa” corresponde a un nivel **integrador y abstracto** que va m
   - Interpretaciones culturales
   - Estructuras de conocimiento
 
-### Reflexión crítica
+## Reflexión crítica (yia)
 
-> La ciencia es muy segregadora en general.
+- La ciencia es muy segregadora en general.
 
 Esto implica que el conocimiento suele dividirse en áreas separadas, fragmentando fenómenos que en realidad están interconectados.
 
@@ -84,7 +82,8 @@ Puse una foto de una excavadora.
 ![](./excavadora.png)
 
   # Clase 02
-  ¿Las canciones son objetos?
+  ¿Las canciones son objetos? (Pensamiento de ducha)
+  Cómo escultorizar una canción
 
   # Tarea
   ## Escribir mis cualidades de forma Relacional y Material
@@ -125,21 +124,25 @@ Como agregar una imagen.
 # CLASE 02(.5)
 ## Escribir 10 cualidades de 2 objetos
 
-Acuario y Guitarra
+## Acuario y Guitarra
+(Incluir Imagenes)
 
 ## Acuario
 
 - Tiene agua
 - Tiene peces
-- Es de vidrio grueso
-- Contiene plantas acuaticas
+- Vidrio
+- Grande
 - No está vivo
+- Transparente
+- Electricidad
 
 
 ## Guitarra
 
--Es de madera
--Está barnizada
--Tiene cables y cuerdas
--Suena al hacer vibrar las cuerdas
+-Madera
+-Barniz
+-Metal
+-Trastes
+-Cuerdas
 -Negra y roja
