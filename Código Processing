@@ -1,3 +1,8 @@
+## CÓDIGO DE PROCESSING
+La idea de este código es recoger los datos entregados por el ecg de un smartwatch que de forma continua va recogiendo datos en forma
+de números separados por comas.
+
+#Código
 
 void setup() {
   size(900, 700, P2D);
