@@ -115,12 +115,12 @@ Cualidades Reales/ Cualidades Sensoriales
 Es distinto pensar en las cualidadess de algo y la apariencia de algo.
 El onjeto cuadruple.
 
-##Construir una metáfora física.
+## Construir una metáfora física.
 
 -Musica como objeto
 -Música escultórica
 -Diseño paramétrico
-Pienso en pulsos, pilares, ondas, líneas como objetos fisicos de cómo una canción de hace sentir.
+Pienso en *pulsos* , pilares, ondas, líneas como objetos fisicos de cómo una canción de hace sentir.
 ¿Qué efectos tiene la música en nosotros?
 ¿Cómo metaforizar esta obra?
 
