@@ -66,13 +66,18 @@ La tercera mesa busca:
 
 ## Síntesis
 
-- **Mesa 1 (Material):** Qué es el objeto  
-- **Mesa 2 (Relacional):** Cómo se usa  
-- **Mesa 3 (Integradora):** Qué significa dentro de un sistema más amplio (No)
+- **Mesa 1 (Material):** Qué es el objeto  ? 
+En mi caso, mi "objeto" sería el pulso cardiaco registrado.
+- **Mesa 2 (Relacional):** Cómo se usa  ?
+A través del electrocardiograma de un smartwatch.
+- **Mesa 3 (Integradora):** Qué significa dentro de un sistema más amplio
+
 - **Disciplina: El arte busca atrapar o unificar estas tres mesas.
 - Imagen y ejecución.
 
 - Leer la estetica de la cosmología.
+
+  
 
   Cualquier cosa con una realidad unitaria: El objeto puede ser todo, una mesa, una silla, una canción y una idea. Todo está hecho de átomos.
 
