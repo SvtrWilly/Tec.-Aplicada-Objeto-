@@ -1,6 +1,6 @@
 # Tecnología Aplicada
 
-# Clase 01
+## Clase 01
 ´´´
 
 ## Apuntes de Clase
